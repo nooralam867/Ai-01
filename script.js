@@ -1,4 +1,4 @@
-const API_KEY = 'AIzaSyAb_8eTD55qyre6UFX6mEwjC3pZaaFgxdw';  // Your API Key
+const API_KEY = 'AIzaSyBacs-f252IdAP2qfK0Tja56BPI0jyZoeM';  // Your API Key
 const API_URL = `https://vision.googleapis.com/v1/images:annotate?key=${API_KEY}`;
 
 async function submitImages() {
